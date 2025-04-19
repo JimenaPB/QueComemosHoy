@@ -11,9 +11,7 @@ https://colab.research.google.com/drive/1udYiKEZKMw0kWHqwIR5xUgck5J2vNxCi?usp=sh
 
 ## **Contenido**
 
-- `Recetas_IA_POC.ipynb`: Notebook de Jupyter con el código funcional que genera recetas e imágenes.
-- `informe.md`: Documentación completa del proyecto, incluyendo problemática, solución, prompts, resultados, y cambios realizados.
-- `plato.png`: Ejemplo de imagen generada (por ejemplo, "pollo con espinaca y queso gratinado").
+- `Quécomemoshoy.ipynb`: Notebook de Jupyter con el código funcional que genera recetas e imágenes.
 - `README.md`: Este archivo, con la descripción del proyecto y las instrucciones.
 
 ## **Descripción del Proyecto**
@@ -80,8 +78,6 @@ El proyecto es viable porque:
 4. Ejecuta las celdas en orden para:
    - Generar una receta basada en una lista de ingredientes (ej. `["pollo", "espinaca", "queso"]`).
    - Crear una imagen hiperrealista del plato (ej. "pollo con espinaca y queso gratinado").
-5. Revisa el archivo `informe.md` para detalles sobre la **problemática**, **solución**, **prompts**, **resultados**, y **cambios realizados**.
-6. La imagen generada se guarda como `plato.png` y se muestra en el notebook.
 
 ## **Ejemplo de Uso**
 
